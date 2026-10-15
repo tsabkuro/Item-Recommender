@@ -1,0 +1,11 @@
+.env
+data/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+web/node_modules/
+web/dist/
+
+tests_local/
+scripts/throughput.py
