@@ -29,3 +29,10 @@ them through the pipeline. `make test` runs the tests.
 
 **`model/`, `live/`**: a gradient-boosting model, served by a FastAPI app with a React page. The demo bundles a smaller model, since the full
 one is too large for the repo.
+
+
+
+https://github.com/user-attachments/assets/48b40591-686e-4e53-8664-80ed7f77d841
+
+
+
